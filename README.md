@@ -27,11 +27,11 @@ There are a number of properties that you can modify:
 <table>
     <tr>
         <td>
-           ''' @override
+        ''' @override
             Widget build(BuildContext context) {
                 return Center(
                     child:HorizontalStepper(
-                        stepsData:["step1","step2","step3],
+                        steps:["step1","step2","step3],
                         onTap:(page){
                             print("navigate to selected page/step : $page")
                         }
