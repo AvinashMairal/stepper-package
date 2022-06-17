@@ -1,7 +1,7 @@
 name: horizontalstepper
-description: A new Flutter package project.
+description: Horizontal stepper which helps to user stepper pages functionality.
 version: 0.0.1
-homepage:
+homepage: https://github.com/AvinashMairal/stepper-package
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
