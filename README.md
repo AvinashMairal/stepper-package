@@ -42,6 +42,11 @@ There are a number of properties that you can modify:
     </tr>
 </table>
 
+![1655471561034_100](https://user-images.githubusercontent.com/63536458/174306477-289d50de-8330-447d-a002-91f95a56add2.PNG)
+
+
+
+
 # Next Goals
 
 - [] more features in stepper like change stepper icon.
