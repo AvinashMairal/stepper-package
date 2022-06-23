@@ -1,4 +1,4 @@
-name: horizontal_stepper
+name: simple_horizontal_stepper
 description: Horizontal stepper which helps to user stepper pages functionality.
 version: 0.0.2
 homepage: https://github.com/AvinashMairal/stepper-package
